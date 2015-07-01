@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Google Geocoding Functions ===
 Contributors: wpmarkuk
 Donate link: http://markwilkinson.me/saythanks/
 Tags: Location, Geocoding
